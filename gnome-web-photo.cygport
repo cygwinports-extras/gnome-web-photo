@@ -1,0 +1,10 @@
+inherit gnome2
+
+NAME="gnome-web-photo"
+VERSION=0.10.6
+RELEASE=1
+CATEGORY="Web"
+SUMMARY="GNOME webpage snapshot utility"
+DESCRIPTION="GNOME Web Photographer is a tool to generate full-size image
+files and thumbnails from HTML files and web pages. It can also be used to
+print those."

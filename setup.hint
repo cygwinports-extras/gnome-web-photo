@@ -1,6 +1,0 @@
-category: Gnome
-requires: libcairo2 libglib2.0_0 libgtk3_0 libintl8 libpango1.0_0 libsoup2.4_1 libwebkitgtk3.0_0
-sdesc: "GNOME webpage snapshot utility"
-ldesc: "GNOME Web Photographer is a tool to generate full-size image
-files and thumbnails from HTML files and web pages. It can also
-be used to print those."
